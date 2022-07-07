@@ -9,6 +9,10 @@ body {
   margin: 16px auto;
 }
 
+.padding {
+  padding: 8px;
+}
+
 .title {
   background: #e3f4ff;
 }
