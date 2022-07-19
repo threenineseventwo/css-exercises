@@ -1,6 +1,7 @@
 .header  {
   font-family: monospace;
   background: papayawhip;
+  padding: 8px;
   display: flex;
   flex-direction: row;
   justify-content: space-between;
@@ -13,9 +14,6 @@
   color: tomato;
   background: white;
   padding: 4px 32px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
 }
 
 ul {
