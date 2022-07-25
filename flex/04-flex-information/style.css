@@ -20,9 +20,16 @@ img {
 }
 
 .item {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
   margin: 26px;
   width: 200px;
 }
+
+
 /* do not edit this footer */
 .footer {
   position: fixed;
