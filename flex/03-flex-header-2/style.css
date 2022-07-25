@@ -17,10 +17,10 @@ body {
   padding: 8px;
 }
 
-.left .right{
+.left, .right{
   display: flex;
   align-items: center;
-  margin: 16px;
+  gap: 16px;
 }
 
 .profile-image {
