@@ -35,3 +35,22 @@ input {
   display: flex;
   justify-content: space-between;
 }
+
+ul {
+  display: flex;
+  margin: 20px;
+  list-style: none;
+  padding: 0;
+}
+
+a {
+  margin: 8px;
+  text-decoration: none; color:blue;
+}
+
+.content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
