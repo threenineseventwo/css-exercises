@@ -30,6 +30,9 @@ body {
 .sidebar {
   width: 300px;
   background: royalblue;
+  flex-shrink: 0;
+  font-size: 24px;
+  padding: 16px;
 }
 
 .card {
@@ -41,13 +44,6 @@ body {
 .content {
   display: flex;
   flex-grow: 1;
-}
-
-.sidebar {
-  width: 300px;
-  flex-shrink: 0;
-  font-size: 24px;
-  padding: 16px;
 }
 
 ul {
