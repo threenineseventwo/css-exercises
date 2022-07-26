@@ -47,6 +47,7 @@ body {
   width: 300px;
   flex-shrink: 0;
   font-size: 24px;
+  padding: 16px;
 }
 
 ul {
@@ -56,3 +57,4 @@ ul {
 a {
   text-decoration: none; color: white;
 }
+
